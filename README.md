@@ -32,6 +32,7 @@ Developed in Unity and released for Android and iOS.
 # Created by me as the sole author
   
 ##	D&D Quest Generator
+https://dndquestgenerator.streamlit.app  
 A web app to create a randomized scenario for Dungeons & Dragons based on user input.  
 Created by me using Mistral AI, Langchain, Streamlit, Python and Claude Code.
   
