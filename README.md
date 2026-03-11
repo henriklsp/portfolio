@@ -6,7 +6,8 @@ A Command-and-Control system for Coast Guard and Navy ships. Uses the Luciad eng
 I have worked as UI/UX specialist, Lead developer, Product Owner and Manager throughout many release cycles.
 I was accountable for development of C-Flex Export.
 
-## The PRINCE2 Game”: A project management simulation game. Features PM data model and dynamic dialog trees. Built with Unity. Now discontinued.
+## The PRINCE2 Game 
+A project management simulation game. Features PM data model and dynamic dialog trees. Built with Unity. Now discontinued.
 I was the lead, and at times only, developer on the team.
 	”Colored Code City Creator”: A 3D visualization of code base architecture and metrics for finding problem areas of high dependency or complexity. 
 A hobby tool developed by me in Unity.
