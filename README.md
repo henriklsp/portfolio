@@ -26,7 +26,9 @@ I worked with broad tasks including artificial intelligence, HUD, input, optimiz
 An RTS indie project lasting one year.  
 As project lead and scrum master on a team of six, I worked on most aspects of development, including design, programming and project management.
 Developed in Unity and released for Android and iOS.
-  
+
+
+    
 # Created by me as the sole author
   
 ##	D&D Quest Generator
@@ -34,6 +36,7 @@ A web app to create a randomized scenario for Dungeons & Dragons based on user i
 Created by me using Mistral AI, Langchain, Streamlit, Python and Claude Code.
   
 ##	Wonky UFO
+https://henriklsp.github.io/wonkyufo/  
 A casual side-scrolling single-button steering game. You do not control the UFO position or speed directly, but the 6th mathematical derivative: Position, Speed, Acceleration, Jerk, Snap, Crackle, Pop.  
 Created by me with Typescript, Vite, and Claude Code
   
