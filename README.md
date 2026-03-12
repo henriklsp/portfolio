@@ -50,5 +50,8 @@ Created with Python, PySide6, and Claude Code
 https://github.com/henriklsp/coloredcodecitycreator  
 A 3D visualization of code base architecture and metrics for finding problem areas of high dependency or complexity.  
 A hobby tool developed by me in Unity.
-
-
+  
+## My Interactive CV  
+I have turned my CV into an AI chatbot. It can answer questions about my work experience, skills, projects, work culture, and more.  
+Botpress RAG AI chatbot:  
+https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/09/29/10/20250929103942-14IRH8N7.json
